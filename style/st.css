@@ -1,6 +1,13 @@
-h1{
+.c1{
     color: coral;
 }
-p{
+.cc{
     background-color: aqua;
+}
+#two{
+    background-color: chartreuse;
+}
+#three{
+    font-size: large;
+    color: darkviolet;
 }
